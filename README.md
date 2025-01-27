@@ -1,11 +1,14 @@
 # Fa-250-Workshop-0
-Experimenting with some simple 2d shapes on the p5.js web editor.
+link to completed web page -> (https://glovving.github.io/workshop-task-0/)
+## Experimenting with some simple 2d shapes on the p5.js web editor.
 This week I was catching up with a weeks worth of work I had missed.
 
+### Following workshop 
 Following the pseudocode instructions I had made during the first live class I made a simplified bird using two arcs.
 <img width="831" alt="bird" src="https://github.com/user-attachments/assets/0bd63764-5378-41ff-a30e-d6f717e84b75" />
 I found it difficult to get the arcs to join as I couldn't figure out how to see the coordinates on the canvas, so I just got them to connect by experimenting with different numbers.
 
+### Some more sketchiing
 Next I tried to create a more complex image using more shapes.
 I found some code online (https://editor.p5js.org/prewiredonline/sketches/mA6XRFf-G) that showed the position of the cursor on the canvas so I used that to make the process a bit easier.
 <img width="883" alt="cat" src="https://github.com/user-attachments/assets/fa2b35c0-3680-4823-8fa2-1a7eb178b08d" />
