@@ -30,6 +30,11 @@ I did not find the result to be very appealing but it helped me get a better ide
 I'd never had any previous experience creating images via instructions so I found it difficult and frustrating to try and translate what was in my head onto the screen using a language I did not feel confident in. 
 I think I want to experiment futher by adding movement, and using solid shapes.
 
+I have published my first sketch as a web page because I consider it to be more complete, but here is an image of my second sketches code:
+
+<img width="883" alt="cat" src="https://github.com/user-attachments/assets/91751249-6f77-4b9f-8854-46b983ca16dd" />
+
+
 
 
 
